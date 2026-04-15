@@ -10,6 +10,7 @@ The focus is on understanding problem-solving techniques rather than memorizing 
 
 Solutions are organized by patterns:
 
+```
 strings/
 arrays/
 stack/
@@ -19,9 +20,8 @@ sliding-window/
 linked-list/
 tree/
 dynamic-programming/
-
+```
 Each folder contains solutions related to that specific pattern.
-
 ---
 
 ## Approach
